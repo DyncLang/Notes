@@ -2,28 +2,29 @@
 
 
 ### 自定义观点+动画
-1。 [图解Android视图的scrollTo(),scrollBy(),getScrollX(),getScrollY()][1]
-2。 (属性动画详细原理][2]
-3所示。 (源码角度分析视图的scrollBy()和scrollTo()的参数正负问题)[3]
-4所示。 [ViewDragHelper详解][4]
-5。 (安卓视图坐标getLeft、getRight getTop,getBottom][5]
-6。 (安卓属性动画(房地产动画)完全解析(上)[6]
-7所示。 (安卓动画机制全解析][7]
-7所示。 (安卓中文api(64)——照片卷轴][8]
-8。 (公共技术点之观点事件传递][9]
+1. [图解Android视图的scrollTo(),scrollBy(),getScrollX(),getScrollY()][1]
+2. [属性动画详细原理](http://www.cnblogs.com/mengdd/p/3301256.html)
+3.  [源码角度分析View的scrollBy()和scrollTo()的参数正负问题](http://blog.csdn.net/xplee0576/article/details/24242383)
+4.  [ViewDragHelper详解][4]
+5. [安卓视图坐标getLeft、getRight getTop,getBottom][5]
+7. [安卓属性动画(房地产动画)完全解析(上][6]
+8.  [安卓动画机制全解析][7]
+9.   [安卓中文api(64)——照片卷轴][8]
+10.   [公共技术点之观点事件传递][9]
 
 ### 列表视图
 1。 [ListView自动单机项目][10]
 
 ### 输入法
-1。 [InputMethodManager输入法][11]
-2。 [AndroidApp监听软键盘按键的三种方式][12]
-3所示。 [Googleg官方输入法教程][13]
-4所示。 (安卓项目:输入法软键盘显示/隐藏的监听和控制,InputMethodManager用法研究][14]
-5。 [监听软键盘的显示与隐藏][15]
+1. [InputMethodManager输入法][11]
+2. [AndroidApp监听软键盘按键的三种方式][12]
+3. [Googleg官方输入法教程][13]
+4. [安卓项目:输入法软键盘显示/隐藏的监听和控制,InputMethodManager用法研究][14]
+5. [监听软键盘的显示与隐藏][15]
 
 ### 适配相关
-(安卓横竖屏切换总结][16]
+
+1. [安卓横竖屏切换总结][16]
 
 
 
@@ -32,18 +33,17 @@
 [EventBus使用详解(一)——初步使用EventBus][17]
 
 ### AndroidStudio
-1。 (安卓工作室技能之快捷键][18]
-2。 (在这里输入链接描述)[19]
+1.  [安卓工作室技能之快捷键][18]
 3. [Android Studio 小技巧集合](http://laobie.github.io/android/2016/02/14/android-studio-tips.html)
 
 ###网络请求
 1。 [HTTPClient模块的HttpGet和HttpPost][20]
 
 ### Git
-1。 (Git教学][21]
-2。 (GitHub主界面][22]
-3所示。 (GitHub搭建博客)(http://blog.csdn.net/u012995964/article/details/50152261)
-4所示。 (超级详细GitHub图文攻略)(http://blog.csdn.net/vipzjyno1/article/details/22098621)
+1. [Git教学][21]
+2. [GitHub主界面][22]
+3. [GitHub搭建博客](http://blog.csdn.net/u012995964/article/details/50152261)
+4.  [超级详细GitHub图文攻略](http://blog.csdn.net/vipzjyno1/article/details/22098621)
 
 ### 架构（MVP)
 1. [MVP经典-稀有猿诉](http://toughcoder.net/blog/2015/11/29/understanding-android-mvp-pattern/)
@@ -55,10 +55,6 @@
 
 
 [1]:http://blog.csdn.net/bigconvience/article/details/26697645
-
-[2]:http://www.cnblogs.com/mengdd/p/3301256.html
-
-[3]:http://blog.csdn.net/xplee0576/article/details/24242383
 
 [4]:http://www.cnblogs.com/lqstayreal/p/4500219.html
 

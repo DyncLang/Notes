@@ -25,12 +25,16 @@
 ### 适配相关
 (安卓横竖屏切换总结][16]
 
+
+
+
 ###  EventBus
 [EventBus使用详解(一)——初步使用EventBus][17]
 
 ### AndroidStudio
 1。 (安卓工作室技能之快捷键][18]
 2。 (在这里输入链接描述)[19]
+3. [Android Studio 小技巧集合](http://laobie.github.io/android/2016/02/14/android-studio-tips.html)
 
 ###网络请求
 1。 [HTTPClient模块的HttpGet和HttpPost][20]
@@ -47,6 +51,7 @@
 ###发现博客
 1. [稀有猿诉][23]
 2. [大利猫](http://www.liuguangli.win/)
+3. [Android 5个顶级框架](https://github.com/xitu/gold-miner/blob/master/TODO/Top-5-Android-libraries-every-Android-developer-should-know-about.md)
 
 
 [1]:http://blog.csdn.net/bigconvience/article/details/26697645

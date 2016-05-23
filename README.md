@@ -22,6 +22,7 @@
 3. [Googleg官方输入法教程][13]
 4. [Android项目:输入法软键盘显示/隐藏的监听和控制,InputMethodManager用法研究][14]
 5. [监听软键盘的显示与隐藏][15]
+6. [输入法打开关闭检测的库](https://github.com/AzimoLabs/AndroidKeyboardWatcher)
 
 ### 适配相关
 [Android横竖屏切换总结][16]
@@ -55,6 +56,12 @@
 
 ### 工具
 1. [抓包工具教程](http://www.cnblogs.com/TankXiao/archive/2012/02/06/2337728.html#quickexec)
+
+### 任务栈
+1. [Android多任务切换与Activity启动模式SingleTask之间关系的分析](http://zhouyunan2010.iteye.com/blog/1948342)
+
+### Fragment
+1. [Activity与Fragment易混点归纳](http://blog.csdn.net/shakespeare001/article/details/51450818)
 
 ### 设计
 1. [design-resource](https://github.com/timmy3131/design-resource)
